@@ -3,6 +3,7 @@
 
 ## Мое образование
 ![Graduation Cap](https://img.icons8.com/ios-filled/50/000000/graduation-cap.png) **2010-2015** — Грозненский государственный нефтяной технический университет имени академика М.Д. Миллионщикова, Строительный факультет, инженер.
+
 ![Graduation Cap](https://img.icons8.com/ios-filled/50/000000/graduation-cap.png) **2024-2025** — Специалист Data Science, Яндекс Практикум.
 
 ## Инструменты
