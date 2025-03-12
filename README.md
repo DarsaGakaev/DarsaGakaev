@@ -15,7 +15,7 @@
 - ![Python](https://img.icons8.com/color/48/000000/python.png)
 - ![SQL](https://img.icons8.com/color/48/000000/sql.png)
 - ![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)
-- ![Jupyter](https://img.icons8.com/color/48/000000/jupyter.png)
+- ![Jupyter](https://img.icons8.com/fluency/48/000000/jupyter.png)
 
 ## Связь со мной
-- [Telegram](https://t.me/sherlock_holmes_123) ![Telegram Icon](https://upload.wikimedia.org/wikipedia/commons/6/60/Telegram_logo_2019.svg)
+- [Telegram](https://t.me/sherlock_holmes_123) ![Telegram Icon](https://img.icons8.com/color/48/000000/telegram-app.png)
