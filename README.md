@@ -14,7 +14,7 @@
 
 - ![Python](https://img.icons8.com/color/48/000000/python.png)
 - ![SQL](https://img.icons8.com/color/48/000000/sql.png)
-- ![Excel](https://img.icons8.com/color/48/000000/microsoft-excel.png)
+- ![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)
 - ![Jupyter](https://img.icons8.com/color/48/000000/jupyter.png)
 
 ## Связь со мной
