@@ -16,4 +16,4 @@
 </p>
 
 ## Связь со мной
-![Telegram Icon](https://img.icons8.com/color/48/000000/telegram-app.png) [Telegram](https://t.me/sherlock_holmes_123)
+![Telegram Icon](https://img.icons8.com/color/48/000000/telegram-app.png) [Telegram](https://t.me/darsa_g)
